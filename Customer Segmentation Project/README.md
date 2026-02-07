@@ -85,13 +85,6 @@ Segments were further grouped for strategic analysis:
 - `PERCENTRANK.INC()` – RFM score normalization
 - `MATCH()` – score-to-segment mapping
 
-Sample formulas and logic are included as images for transparency and reproducibility.
-Segment:
-<img width="400" height="295" alt="segment" src="https://github.com/user-attachments/assets/88e9bf8a-1397-43d7-8b87-37deb302203c" />
-
-Group:
-<img width="902" height="122" alt="group" src="https://github.com/user-attachments/assets/990fba88-aa0a-4826-b1a2-d1000d7546c7" />
-
 ---
 
 ## Dashboard & Visuals
