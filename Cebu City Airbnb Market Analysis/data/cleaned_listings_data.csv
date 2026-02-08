@@ -1,0 +1,302 @@
+listing_id,listing_name,listing_type,room_type,guests,bedrooms,beds,baths,has_tv,has_air_con,has_kitchen,has_wifi,has_pool,min_nights,cancellation_policy,num_reviews,rating_overall,rating_checkin,rating_cleanliness,rating_communication,rating_location,ttm_revenue,ttm_avg_rate,ttm_occupancy,ttm_revpar,ttm_reserved_days,ttm_available_days,l90d_revenue,l90d_avg_rate,l90d_occupancy,l90d_revpar,l90d_reserved_days,l90d_available_days
+1001735,2 BDRM Condo in Cebu - opp Ayala.,Condominium,Entire home,4,2,3,2,Yes,Yes,Yes,Yes,Yes,6,Flexible,16,4.5,4.8,4.3,4.7,4.7,586898,4062.2,0.446,1881.1,139,226,0,3763.8,0,0,0,90
+1596348,"Romantic Penthouse with a view, King Bed & parking",Others,Entire home,4,2,3,2,Yes,Yes,Yes,Yes,Yes,2,Flexible,122,4.5,4.6,4.5,4.6,4.7,1984795,7653,0.738,5591,262,103,452290,7190,0.8,5653.6,64,26
+2165373,BEAUTIFUL MODERN GUEST HOUSE,Home,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,No,1,Moderate,124,4.9,4.9,4.9,4.9,4.7,42885,2179,0.106,252.3,18,347,0,1788.9,0,0,0,90
+2765144,3BR/3T&B Luxury 84sqm. Condo,Others,Entire home,5,3,3,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,96,4.46,4.6,4.5,4.6,4.5,143152,5554.2,0.063,392.2,23,342,30171,5129.1,6.70E-02,335.2,6,84
+2797660,Budget Stay in Cebu City | Old but Clean & Central,Private room,Private room,,,2,0,No,Yes,No,Yes,Yes,1,Very Strict,72,4.69,4.8,4.7,4.9,4.8,277152,1096.5,0.682,759.3,249,116,67868,1106.7,0.678,754.1,61,29
+3839466,The Crossroad Apt,Others,Entire home,2,1,2,1,Yes,Yes,Yes,Yes,Yes,30,Very Strict,31,4.81,5,4.8,5,4.8,59291,1085.6,0.271,258.9,62,303,16062,744.9,0.272,198.3,22,68
+4026631,1 Bedroom with Shower For Rent,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,No,180,Very Strict,1,,,,,,13834,1238.6,3.30E-02,37.9,12,353,6304,1103,6.70E-02,70,6,84
+4516686,No Pest Big 1 BR at Cebu Cntr w/ own Parking,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,60,4.85,5,4.8,4.8,4.8,282151,2735.1,0.263,773,96,269,122919,2950.9,0.367,1365.8,33,57
+4560747,Super Cebu Loft Condo Fountain,Others,Entire home,8,1,4,2.5,Yes,Yes,Yes,Yes,Yes,1,Strict,68,4.81,5,4.6,4.9,4.9,135633,6188.4,9.50E-02,558.2,23,342,0,7058,0,0,0,90
+4863139,The Purple Room,Others,Entire home,2,1,1,2,Yes,Yes,Yes,Yes,No,30,Very Strict,48,4.79,4.9,4.9,4.9,4.8,156429,2697.4,0.235,533.9,69,296,22251,1761.6,0.895,1171.1,17,73
+5035006,Cebu City downtown - spacious loft condo,Others,Entire home,6,1,1,1.5,Yes,Yes,Yes,Yes,Yes,3,Flexible,138,4.72,4.9,4.7,4.9,4.8,526694,3502.6,0.521,1867.7,147,218,138588,3124.4,0.5,1539.9,45,45
+5060091,Baseline Fully-Furnished Studio,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,10,4.6,5,4.8,4.7,5,29602,2219.9,3.60E-02,81.1,13,352,5856,1957.6,3.30E-02,65.1,3,87
+5119775,Luxury Villa Busay,Villa,Entire home,8,4,4,5.5,Yes,Yes,Yes,Yes,Yes,1,Strict,241,4.88,4.8,4.8,4.8,4.6,6050210,36212.3,0.454,16759.6,164,201,954223,33608.2,0.311,10602.5,28,62
+5700753,Grand Cenia: A Modern Cozy Home | 2Br near Ayala,Condominium,Entire home,6,2,3,2,Yes,Yes,Yes,Yes,Yes,2,Flexible,131,4.83,4.9,4.8,4.8,4.9,1266366,4090.4,0.849,3469.5,310,55,305561,3961.5,0.856,3395.1,77,13
+6707919,Cozy Place at the Heart of Cebu,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,5,Very Strict,144,4.87,4.8,4.9,4.9,4.9,38572,1995.2,5.20E-02,105.7,19,346,0,1896.6,0,0,0,90
+6708878,Cebu IT Park studio - Fuchsia,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,106,4.69,4.9,4.7,4.9,4.9,146413,1617.7,0.265,431.9,90,275,41490,1471.1,0.354,506,29,61
+6813172,Fully furnished Condo - w/ Free Wifi and Cable TV,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,Yes,Yes,14,Very Strict,33,4.42,4.7,4.3,4.6,4.8,19372,707,7.40E-02,53.1,27,338,0,0,0,0,0,90
+7150634,"Cebu City, Pardo, Alta Vista",Villa,Entire home,9,4,5,4,Yes,Yes,Yes,Yes,Yes,2,Very Strict,31,4.94,4.9,4.9,5,4.6,1512900,30326.5,0.134,4144.9,49,316,0,29718.6,0,0,0,90
+7164332,CEBU Ayala 45sqm Studio Unit with 30mbps WI-FI,Others,Entire home,2,,1,1,Yes,Yes,No,Yes,No,2,Moderate,84,4.86,4.9,4.7,5,5,286918,1975.5,0.608,1147.7,152,213,42550,2148.3,0.241,512.7,20,70
+7417032,Homey studio near Ayala Mall Cebu BusinessPark,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,189,4.82,4.9,4.8,4.9,4.9,597107,2280.4,0.715,1635.9,261,104,151252,2294.7,0.733,1680.6,66,24
+8321754,Modern & Stylish 1 BR 15 mins to fuente circle,Condominium,Entire home,3,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,179,4.87,4.9,4.9,4.9,4.9,585543,2593.3,0.616,1604.2,225,140,161796,2454.6,0.744,1797.7,67,23
+8447982,The Padgett Place condo with a view and parking,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,5,Flexible,114,4.87,4.9,4.9,5,4.7,453032,3082,0.422,1309.3,146,219,135914,2864.8,0.522,1510.2,47,43
+8769233,Cebu IT Park studio - Aqua,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,78,4.79,4.9,4.8,5,5,197333,1580.1,0.467,725.5,127,238,67917,1394.1,0.544,754.6,49,41
+8872454,Studio Unit for Rent - near IT Park,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,53,4.74,4.8,4.5,4.8,4.7,109413,1073.1,0.271,299.8,99,266,0,998.3,0,0,0,90
+9085570,ANRI Pension House - Double Deluxe,Private room,Private room,2,1,1,1,Yes,Yes,No,Yes,No,1,Flexible,148,4.49,4.8,4.5,4.7,4.5,99439,897.6,0.31,272.4,113,252,43075,832.6,0.578,478.6,52,38
+9138696,"Studio Room, across Sugbo Mercado, Cebu IT Park",Condominium,Entire home,2,1,1,1,No,Yes,Yes,Yes,Yes,12,Moderate,24,4.83,5,4.8,5,4.8,130166,1539,0.253,392.1,84,281,25372,1408.3,0.2,281.9,18,72
+9339924,"#1 Cozy Studio Condo Cebu, Nice View, Wired WiFi",Condominium,Entire home,2,,2,1,Yes,Yes,No,Yes,Yes,2,Very Strict,76,4.78,4.9,4.8,4.9,4.7,81293,1346,0.306,444.2,56,309,0,1213.3,0,0,0,90
+9421605,"Newly renovated, furnished  2BR  w/  Netflix ,WIFI",Condominium,Entire home,4,2,2,1,Yes,Yes,Yes,Yes,Yes,3,Flexible,17,4.24,4.8,4.2,4.7,4.4,82291,2089.2,0.255,537.8,39,326,0,2036.7,0,0,0,90
+9504262,Twin Room in Fuente - AT,Private room,Private room,3,1,2,1,Yes,Yes,No,No,No,1,Moderate,1,,,,,,21529,1806.1,3.30E-02,59,12,353,10598,1784.7,6.70E-02,117.8,6,84
+9637076,ANRI Pension House - Single Deluxe,Private room,Private room,1,1,1,1,Yes,Yes,No,Yes,No,1,Flexible,98,4.52,4.8,4.5,4.7,4.6,80496,918.8,0.238,220.5,87,278,27544,892.7,0.344,306,31,59
+9701595,SR Condo in Mabolo (1BR) # 01,Others,Entire home,3,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Moderate,8,3.63,4.1,3.8,4,3.9,52794,1922.3,7.40E-02,144.6,27,338,0,1784.1,0,0,0,90
+11311570,300mbps fiber internet+netflix@16 Cebu I. T. Park,Condominium,Private room,4,1,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,98,4.61,4.7,4.6,4.7,4.9,230705,2215.9,0.277,632.1,101,264,20188,2101.8,0.1,224.3,9,81
+11377058,Avida Towers Cebu Condo IT Park Nice City View,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,122,4.86,5,4.7,4.9,5,474799,1636,0.795,1300.8,290,75,113442,1584.6,0.8,1260.5,72,18
+11514889,Amazing Avida Towers IT PARK Cebu w/ Wi-Fi,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,Yes,Yes,7,Very Strict,108,4.84,4.9,4.9,5,5,377468,1400.1,0.748,1034.2,273,92,101221,1330.4,0.844,1124.7,76,14
+12317094,61sqm Top Corner 1-BR Unit w/ balcony,Others,Entire home,5,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,111,4.78,4.9,4.8,4.8,4.7,415551,1904.3,0.692,1362.5,211,154,37030,1637,0.733,1234.3,22,68
+12728096,Large (57 sqm) Lux. 2BR-condo near SM Seaside Mall,Others,Entire home,5,2,3,1,Yes,Yes,Yes,Yes,Yes,4,Very Strict,68,4.66,4.8,4.8,4.9,4.5,609245,2860.8,0.593,1711.4,211,154,119180,2693,0.543,1471.4,44,46
+13145169,Cebu city Spacious Avida Unit I.T. Park Cebu,Condominium,Entire home,6,1,2,1,Yes,Yes,Yes,Yes,Yes,3,Flexible,65,4.8,4.9,4.5,4.9,4.9,64131,1811.1,8.90E-02,177.6,32,333,0,0,0,0,0,90
+13176233,Resort-Inspired Condo in CEBU CITY + WIFI,Others,Entire home,4,,4,1,No,Yes,Yes,Yes,Yes,1,Moderate,181,4.57,4.7,4.7,4.7,4.4,59449,2075.2,9.00E-02,166.5,32,333,7306,2292.2,3.30E-02,81.2,3,87
+13282247,Ceboom IT Park! 216,Condominium,Private room,2,,2,1,Yes,Yes,Yes,Yes,Yes,5,Moderate,30,4.4,4.7,4.2,4.5,4.9,29663,1483.2,5.70E-02,89.3,19,346,3068,1535,2.20E-02,34.1,2,88
+13580161,Cebu Citilights 236,Condominium,Entire home,2,,2,1,Yes,Yes,No,Yes,Yes,5,Moderate,19,4.84,4.9,4.7,4.7,4.9,33083,1409.8,0.063,90.6,23,342,1506,1320.4,1.10E-02,16.7,1,89
+13662422,Stay in IT Park and Enjoy More of Cebu!!!,Condominium,Entire home,2,,2,1,Yes,Yes,Yes,Yes,No,3,Very Strict,73,4.77,4.9,4.8,4.9,5,177548,1521.6,0.386,595.8,115,250,38203,1413.4,0.311,424.5,28,62
+13717113,cebu city Avida tower 1 spacious studio type room,Condominium,Entire home,6,1,1,1,Yes,Yes,Yes,Yes,Yes,4,Flexible,88,4.52,4.8,4.3,4.8,4.9,32182,1360.9,6.00E-02,88.2,22,343,0,0,0,0,0,90
+13732714,Brand New Ready -for- Occupancy !,Condominium,Entire home,2,,1,1.5,Yes,Yes,Yes,Yes,Yes,3,Very Strict,7,4.86,5,4.4,5,5,68999,1508.6,0.205,266.4,53,312,0,1540.6,0,0,0,90
+13862145,1 Bedroom Condo Unit (10min walk to IT Park Lahug),Condominium,Entire home,2,1,2,1,Yes,Yes,No,Yes,No,2,Moderate,148,4.81,4.9,4.8,4.9,4.9,40594,1155.6,0.127,147.1,35,330,0,1127.9,0,0,0,90
+14311441,Newly installed furnitures + Prime location,Condominium,Private room,,,1,0,Yes,Yes,Yes,Yes,Yes,3,Moderate,18,4.56,4.7,4.4,4.7,4.9,118455,1587.5,0.287,414.2,82,283,0,1636.1,0,0,0,90
+14490078,1 Bedroom Condo Unit- Persimmon Condominium,Condominium,Entire home,4,1,1,1,No,Yes,No,No,Yes,5,Moderate,7,4.29,4.3,4.3,4.7,4.5,16784,1453.1,3.30E-02,46,12,353,8252,1366.1,6.70E-02,91.7,6,84
+14598915,1Bedroom Corner Condo Unit IT Park Cebu,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,142,4.91,5,4.8,5,5,433678,1928.9,0.611,1188.2,223,142,107289,1884.2,0.633,1192.1,57,33
+14909398,1-Bedroom Apartment with Hi-Speed Wi-Fi,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,69,4.8,4.9,4.9,4.9,4.8,79390,1889.6,0.17,299.6,45,320,33076,1613.7,0.253,380.2,22,68
+15027576,HIGH END CALYX RESIDENCES 1BR UNIT near AYALA MALL,Condominium,Entire home,5,1,2,2,Yes,Yes,Yes,Yes,Yes,1,Very Strict,147,4.86,4.9,4.9,4.9,4.9,721367,4903.3,0.427,2109.3,146,219,144614,4482.7,0.356,1606.8,32,58
+15087583,Studio Room near SM Seaside & NU STAR,Private room,Private room,2,1,2,2,Yes,Yes,Yes,Yes,Yes,1,Flexible,2,,,,,,110716,2166.5,0.141,361.8,43,322,0,1697.9,0,0,0,90
+15701219,Central condo in Cebu - ideal for Digital Nomads!,Condominium,Entire home,4,,1,1,No,Yes,Yes,Yes,Yes,30,Very Strict,42,4.57,4.8,4.7,4.8,4.8,21765,892.6,0.103,97.2,23,342,0,771,0,0,0,90
+15708027,"Cosy Studio Unit w/ Rooftop Infinity Pool, Ayala",Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,155,4.77,4.8,4.7,4.8,4.9,153839,1823.5,0.471,894.4,81,284,0,1795.7,0,0,0,90
+15811280,Ultima Condominium Residency Tower 3,Condominium,Entire home,8,1,9,2,Yes,Yes,Yes,Yes,Yes,3,Flexible,42,4.93,4.9,5,5,5,107312,6202.6,0.047,294,17,348,0,6077.7,0,0,0,90
+15811916,Scenic Cebu City View Condo in Ayala,Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,426,4.97,5,5,5,5,606742,2223.1,0.751,1662.3,274,91,153927,2125.5,0.8,1710.3,72,18
+15891880,New cozy 2BR condo near SM seaside,Condominium,Entire home,4,2,4,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,43,4.47,4.5,4.3,4.7,3.9,77577,2274.6,8.80E-02,212.5,32,333,0,2127.9,0,0,0,90
+16043913,Splendid & Pristine Elegant Home n Ayala Cebu City,Condominium,Entire home,4,1,2,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,253,4.99,5,5,5,5,1024359,3166.6,0.9,2845.4,324,41,256487,3134.9,0.965,3017.5,82,8
+16135057,New 4BR Lux Townhome in G¥ñ of Cebu w/ Theater +Wifi,Home,Entire home,16,5,6,4.5,Yes,Yes,Yes,Yes,No,1,Flexible,344,4.86,4.9,4.7,4.9,4.4,2065784,9336.3,0.602,5675.2,219,146,531769,9531.1,0.607,5974.9,54,36
+16581791,Lotlot's New Cebu City House near Fuente Osmena HSE3,Home,Entire home,15,4,6,2.5,Yes,Yes,Yes,Yes,No,1,Very Strict,445,4.89,4.9,4.9,4.9,4.7,388626,4662.3,0.448,2233.5,78,287,0,4093.5,0,0,0,90
+16668460,"Cebu IT Park Condo | Great View, FREE Parking",Condominium,Entire home,2,,2,1.5,Yes,Yes,Yes,Yes,Yes,20,Moderate,98,4.92,4.9,4.9,5,4.9,133119,1779.6,0.284,504.2,75,290,28446,1597.6,0.225,355.6,18,72
+16682322,Condo for rent near IT Park Cebu City,Others,Entire home,4,,5,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,8,4.63,5,4.4,5,4.2,32515,2298.7,3.80E-02,89.1,14,351,12103,2209.7,6.70E-02,134.5,6,84
+16729126,Cozy Condo in the Heart of Cebu,Others,Entire home,6,1,3,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,74,4.69,4.7,4.6,4.7,4.7,216808,1220.6,0.485,594,177,188,55368,1150.5,0.533,615.2,48,42
+16789988,Royal Crowne Residences Loft (fmr Oakridge Loft),Others,Entire home,10,1,5,1.5,Yes,Yes,Yes,Yes,No,1,Strict,357,4.87,4.8,4.9,4.9,4.4,57649,1741.4,0.138,241.2,33,332,0,1692.3,0,0,0,90
+16800880,The Purple Door | Fully Furnished Studio | Cebu,Condominium,Entire home,2,,2,1,Yes,Yes,Yes,Yes,No,3,Strict,35,5,4.9,4.9,4.9,4.6,17748,1125.6,4.40E-02,48.6,16,349,1115,1131.4,1.10E-02,12.4,1,89
+16807200,2 Bedroom Condominium in the heart of Cebu,Condominium,Entire home,5,2,2,3,Yes,Yes,Yes,Yes,Yes,1,Very Strict,71,4.63,4.8,4.4,4.8,4.8,99721,3204.4,0.1,345.1,29,336,0,2929.8,0,0,0,90
+16836317,HOME OFFICE at AVENIR (near Ayala and IT Park),Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,No,3,Moderate,94,4.8,4.9,4.8,5,4.8,104170,1557.7,0.186,285.4,68,297,16339,1439.3,0.122,181.5,11,79
+17098377,New York-inspired condo | 38Park Ave | High Floor,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,65,4.95,5,5,5,5,542791,1686.5,0.882,1487.1,322,43,147399,1783.4,0.911,1637.8,82,8
+17276960,Cozy Beautiful Living Spaces Studio C,Condominium,Private room,1,1,1,1,Yes,Yes,No,Yes,No,2,Strict,189,4.8,4.9,4.8,4.9,4.4,210948,864.8,0.668,577.9,244,121,41040,894.7,0.511,456,46,44
+17388224,Family-size (56sqm) near SM Seaside and pier.,Others,Entire home,5,2,7,1,Yes,Yes,Yes,Yes,Yes,1,Strict,47,4.68,4.8,4.7,4.8,4.4,34064,3448.7,0.027,93.3,10,355,0,0,0,0,0,90
+17438145,SanMarino SeaView nearSMCityCebu fast internet,Others,Entire home,2,,1,1,Yes,Yes,Yes,Yes,No,2,Flexible,113,4.27,4.7,4.3,4.4,4.6,25770,1033.9,6.80E-02,70.6,25,340,0,890.3,0,0,0,90
+17450978,Relaxing and Secured Studio in the City,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,101,4.77,4.8,4.7,4.9,4.5,108377,1401.4,0.214,296.9,78,287,39038,1383.7,0.322,433.8,29,61
+17464950,Best Spot Studio! Sleeps 3-4. Prime Location.,Condominium,Entire home,2,1,1,1,Yes,Yes,No,Yes,No,15,Strict,36,4.22,4.7,4.3,4.6,4.4,38034,1793.9,7.40E-02,104.2,27,338,0,2114.9,0,0,0,90
+17544631,Calyx Centre Studio Unit (IT Park),Others,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,14,Flexible,78,4.76,4.9,4.7,4.9,5,220627,1194.5,0.765,959.2,176,189,16282,1059.5,0.567,542.7,17,73
+17565001,Myra's Bedsit 1@Horizons101  Condominium Cebu City,Condominium,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,1,Strict,285,4.75,4.8,4.8,4.8,4.8,100425,1535.6,0.203,313.8,65,300,8199,1517,5.60E-02,91.1,5,85
+17674884,Cozy 2 BR Unit in Cebu IT Park,Others,Entire home,6,2,4,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,303,4.86,4.9,4.8,4.9,4.9,808168,3026.3,0.745,2238.7,269,96,161228,2747.6,0.686,1874.7,59,31
+17692923,Comfy 2 BR San Remo Oasis near SM Seaside,Condominium,Entire home,5,2,3,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,38,4.29,4.6,4.1,4.6,4.3,116133,2415,0.129,318.2,47,318,11712,2294.1,5.60E-02,130.1,5,85
+17737523,2 Bedroom Unit Within the City Hub,Condominium,Entire home,4,2,2,2,Yes,Yes,Yes,Yes,No,3,Strict,4,5,4.8,4.8,5,5,58160,2954.3,0.055,159.3,20,345,5298,2637.9,2.20E-02,58.9,2,88
+17745998,Myra's Bedsit 3@Horizons101 Condominium Cebu City,Others,Entire home,4,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Strict,307,4.72,4.9,4.7,4.9,4.9,106263,1535.7,0.187,291.9,68,297,6525,1469.1,4.40E-02,72.5,4,86
+17978268,2bedrooms for 5/1bath*AFFORDABLE*SAFE*w/POOL*LIFT,Condominium,Entire home,5,2,4,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,74,4.27,4.5,4.4,4.7,4.2,53781,2819,4.60E-02,155,16,349,0,2257.6,0,0,0,90
+17989987,Fox Homes (One Oasis | WiFi),Others,Entire home,4,2,2,1,Yes,Yes,Yes,Yes,Yes,1,Strict,311,4.8,4.9,4.8,4.9,4.6,446245,2723.2,0.444,1229.3,161,204,102616,2189.9,0.534,1166.1,47,43
+18003537,Cozy City Studio - Persimmon (near Ayala&SM),Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,7,Flexible,17,4.29,4.8,3.7,4.9,4.9,19125,1349.5,5.00E-02,68.3,14,351,19125,1352.5,0.156,212.5,14,76
+18015523,Amazing view & near to IT Park/SM/Ayala + wifi,Others,Entire home,2,,2,1.5,Yes,Yes,Yes,Yes,Yes,3,Very Strict,54,4.67,4.8,4.7,4.8,4.7,250987,1520.9,0.544,847.9,161,204,29111,1402.2,0.318,441.1,21,69
+18024410,Myra's Bedsit 2 @ Horizons 101 Cebu City,Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,Yes,1,Strict,224,4.77,4.9,4.8,4.8,4.9,84177,1546.9,0.157,244.7,54,311,6246,1504,4.40E-02,69.4,4,86
+18191946,"Myra's Bedsit 4@Horizons101 Condominium, Cebu City",Condominium,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,1,Strict,102,4.88,4.9,4.8,4.9,5,118539,1619.3,0.215,363.6,70,295,21973,1584.6,0.155,261.6,13,77
+18228320,Lilly's Place at Horizon 101 Condominium,Condominium,Entire home,2,,2,1,Yes,Yes,Yes,Yes,Yes,3,Strict,163,4.67,4.9,4.6,4.8,4.9,173812,1406,0.396,573.6,120,245,5186,1300,5.00E-02,64.8,4,86
+18266725,Comfy 3-BR Retreat | Sleeps 6 | Ideal for Families,Condominium,Entire home,6,3,4,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,53,4.53,4.6,4.5,4.7,4.4,154828,4257.7,9.60E-02,424.2,35,330,0,4074.9,0,0,0,90
+18508351,Chic 2-BR Condo| CCLEX Accessible,Condominium,Entire home,5,2,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,38,4.21,4.5,4.2,4.4,4,58193,2800.7,4.40E-02,159.4,16,349,2565,2456.4,1.10E-02,28.5,1,89
+18529168,One Pavillion Condo in Cebu free use of pool n gym,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,30,Flexible,1,,,,,,26435,1530.4,4.40E-02,72.4,16,349,0,1284.1,0,0,0,90
+18567868,"Studio Room at Avida Towers, Cebu IT Park",Condominium,Entire home,2,2,1,1,Yes,Yes,Yes,Yes,Yes,3,Flexible,68,4.93,4.9,4.9,4.9,5,100468,1217.7,0.235,287.9,82,283,6248,1049.3,6.70E-02,69.4,6,84
+18620659,*Promo* Modern Studio - Flexible Check In/Out,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,85,4.79,4.9,4.9,4.9,4.8,236870,1643.3,0.425,649,155,210,66032,1363.2,0.533,733.7,48,42
+18658403,A homey studio,Condominium,Entire home,2,,2,1.5,Yes,Yes,Yes,Yes,Yes,2,Flexible,34,4.71,4.9,4.5,4.9,4.9,361125,1583.2,0.726,1135.6,231,134,93243,1631.5,0.611,1036,55,35
+18737483,Avida Tower 1/Cebu City/I.T park/Fast WiFi,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,203,4.87,4.9,4.8,4.8,4.9,427517,2204.6,0.521,1171.3,190,175,68150,1774.7,0.422,757.2,38,52
+19022479,Casa Giuseppe Cebu 2,Others,Entire home,2,,2,1,Yes,Yes,Yes,Yes,No,2,Moderate,14,4.79,5,4.9,5,4.7,41098,2423,4.90E-02,112.6,18,347,0,2480,0,0,0,90
+19263801,"2br near IT Park,Waterfront,Ayala,SM,nocreditcard,",Condominium,Entire home,8,2,5,1,Yes,Yes,Yes,Yes,No,2,Very Strict,77,4.56,4.8,4.6,4.8,4.5,143938,1918.2,0.197,394.4,72,293,28945,1675.6,0.189,321.6,17,73
+19441423,Pool Front View 2BR Amalfi Cebu City near NuStar,Condominium,Entire home,4,2,3,1,Yes,Yes,Yes,Yes,Yes,4,Moderate,45,4.93,5,4.8,4.9,4.6,52480,4092,3.50E-02,152.6,12,353,0,4346.3,0,0,0,90
+19547040,"2 Bed Condo, City de Mare, Cebu SRP, Nu Star, SM Moa",Others,Entire home,4,2,4,1,Yes,Yes,Yes,Yes,Yes,4,Very Strict,101,4.92,5,4.8,5,4.7,745918,2506.3,0.816,2043.6,298,67,202727,2470,0.911,2252.5,82,8
+19613673,Luce del Sole's Studio Unit in Cebu City,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,No,Yes,2,Moderate,6,4.5,4.7,4.7,4.7,3.7,21612,1978.7,3.00E-02,59.2,11,354,3848,1912.8,2.20E-02,42.8,2,88
+19852665,"Avida Towers Cebu City PH (Cheap, Fully Furnished)",Condominium,Entire home,2,1,1,1.5,Yes,Yes,Yes,Yes,Yes,14,Moderate,11,4.82,4.9,4.6,5,4.9,106530,1491.9,0.215,337.1,68,297,8085,1399.1,6.70E-02,89.8,6,84
+20001132,"Chic Studio w/ Netflix @ Avida Tower, Cebu IT Park",Condominium,Entire home,2,1,2,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,100,4.61,4.8,4.4,4.8,4.9,325963,1740.2,0.525,910.5,188,177,98387,1668.2,0.693,1118,61,29
+20096791,Five-Family Flat Bunk Seaview Pool WiFi near CBP,Others,Entire home,5,1,2,1,No,Yes,Yes,Yes,Yes,2,Very Strict,109,4.73,4.9,4.7,4.9,4.7,55176,1138,0.115,151.2,42,323,0,921.9,0,0,0,90
+20117116,San Remo Oasis (2BR)-near SM Seaside/Ocean Park!,Condominium,Entire home,5,2,2,1,Yes,Yes,Yes,Yes,Yes,1,Strict,128,4.74,4.7,4.8,4.9,4.6,347466,2754,0.337,952,123,242,29224,2643.5,0.133,324.7,12,78
+20156353,Kuarto Cebu - Mivesa,Condominium,Entire home,2,,2,1,Yes,No,Yes,Yes,Yes,5,Very Strict,56,4.86,4.9,4.7,4.8,4.6,348869,1175,0.83,955.8,303,62,93870,1188.6,0.867,1043,78,12
+20178030,"Cozy Modern 2BR Loft Monterrazas Area, Cebu City",Home,Entire home,5,2,4,3,No,Yes,Yes,Yes,No,4,Moderate,46,4.63,4.8,4.7,4.9,4.2,243515,2825.1,0.403,1127.4,87,278,16230,2748.5,0.462,1248.5,6,84
+20179631,Lovely Space at Horizon 101,Others,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,55,4.91,5,4.9,5,5,269391,1361.2,0.564,738.1,206,159,48235,1123.3,0.478,535.9,43,47
+20486245,Mi Casa de San Remo | WIFI | PARKING,Condominium,Entire home,5,2,3,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,12,5,4.9,4.8,5,4.8,41145,2896.3,0.039,115.3,14,351,0,0,0,0,0,90
+20559082,COMFORT & LUXURY in The G¥ñ of Cebu City!,Condominium,Entire home,6,2,3,2,Yes,Yes,Yes,Yes,Yes,3,Strict,152,4.77,4.8,4.7,4.8,4.9,832710,5892.4,0.474,2842,139,226,0,5940.1,0,0,0,90
+20643889,"Horizons 101 homey studio, w/ Wi-fi & Netflix",Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,40,4.58,4.8,4.6,4.9,5,20064,1481.8,0.055,85.4,13,352,0,1505.2,0,0,0,90
+20671307,Condo Unit with Balcony 14th floor near Ayala,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,34,4.47,4.7,4.3,4.7,4.8,102245,1592.1,0.214,346.6,63,302,9760,1384.7,0.3,488,6,84
+20697984,RosecanGÇÖs Place @ Spaniada Residence Cebu City,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,160,4.89,4.9,4.8,4.9,4.9,125068,1606.7,0.36,563.4,80,285,61462,1516.4,0.464,731.7,39,51
+20700200,"Condo,Swim pool @ Tallest Bldg @ Heart of the City",Condominium,Entire home,5,1,3,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,312,4.77,4.9,4.6,4.9,4.9,340043,1762.2,0.523,931.6,191,174,92298,1759.8,0.578,1025.5,52,38
+20735644,Studio Living Horizons 101 Cebu/ Strong WIFI,Condominium,Entire home,2,,2,1,Yes,Yes,No,Yes,Yes,2,Flexible,179,4.63,4.8,4.7,4.8,4.8,178476,1429.3,0.531,740.6,128,237,13217,1230.6,0.344,413,11,79
+20767712,5pax Seaview Garden Flat WiFi Pool Gym near Ayala,Others,Entire home,5,1,2,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,102,4.62,4.8,4.5,4.8,4.7,27335,1247.8,5.90E-02,77.2,21,344,0,1307.4,0,0,0,90
+20991661,"Avida Tower One, IT Park, Cebu city",Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,4,Flexible,42,4.6,4.9,4.5,4.8,4.9,30169,1790.6,4.90E-02,92.8,16,349,28384,1904.1,0.167,315.4,15,75
+21065405,"Tallest in CEBU! 51st FLOOR, Mountain/City View!",Others,Entire home,2,1,1,1.5,Yes,Yes,Yes,Yes,Yes,2,Moderate,85,4.69,4.7,4.7,4.9,4.9,226985,1743.4,0.392,621.9,143,222,101669,1447.6,0.778,1129.7,70,20
+21126783,Family-friendly studio unit in One Oasis Cebu,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,Yes,No,28,Moderate,1,,,,,,14671,773,5.30E-02,41.2,19,346,4795,677.1,8.60E-02,59.2,7,83
+21269256,Eleanor (Solinea Studio in Cebu Business Park),Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,7,Very Strict,130,4.8,5,4.7,4.9,4.9,419587,1638.3,0.757,1241.4,256,109,85159,1593.8,0.841,1351.7,53,37
+21286161,Studio Condo Unit @ Cebu City Horizons 101,Condominium,Entire home,2,1,1,1,Yes,Yes,No,Yes,Yes,2,Moderate,88,4.86,5,4.9,5,4.9,33069,1461.5,0.078,111.7,23,342,9312,1418.3,0.14,186.2,7,83
+21331097,Affordable cozy studio in Avida Towers IT Park,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,318,4.8,4.9,4.7,4.9,5,351418,1412.9,0.685,962.8,250,115,92130,1376.9,0.744,1023.7,67,23
+21420475,1 BR w/ Balcony + Netflix @ Horizons 101 Cebu City,Condominium,Entire home,4,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,57,4.7,4.8,4.8,4.8,4.9,172483,2190.3,0.26,567.4,79,286,30060,1970.6,0.211,423.4,15,75
+21451972,1 BEDROOM SPACE WITH CENTRAL LOCATION IN CEBU CITY,Private room,Private room,,,2,0,Yes,Yes,No,Yes,No,1,Moderate,,,,,,,12324,1074.9,3.30E-02,33.8,12,353,5632,966,6.70E-02,62.6,6,84
+21468260,300mbps fibr internet+netflix@ 21 Cebu I. T. Park,Condominium,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,138,4.54,4.8,4.5,4.7,4.9,169720,2060,0.222,465,81,284,3792,2054.2,2.20E-02,42.1,2,88
+21554186,Cosy Avida Towers Studio in IT Park,Others,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,81,4.86,4.9,4.8,5,5,189614,1717.4,0.339,574.6,112,253,24038,1672.6,0.167,267.1,15,75
+21578880,"Top Floor Condo in Banilad (Wifi, Pool, Gym)",Condominium,Entire home,2,,2,1,Yes,Yes,No,Yes,Yes,1,Moderate,35,4.63,4.9,4.6,4.9,4.8,57074,1319.1,0.13,177.2,42,323,1115,1201,1.10E-02,12.4,1,89
+21635061,Shabby Chic Studio Near IT Park w/ Fiber Internet,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Moderate,88,4.84,4.9,4.8,4.9,4.8,208910,1546.2,0.449,694.1,135,230,35360,1348.4,1,1360,26,64
+21651599,SPACIOUS 1BR 44sqm STUDIO UNIT near AYALA MALL,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,No,7,Very Strict,82,4.65,4.8,4.5,4.6,4.8,308235,1805.6,0.565,1024,170,195,80758,1751.2,0.511,897.3,46,44
+21703592,St. Mark Hotel Apartment 701,Private room,Private room,5,2,3,2,Yes,Yes,Yes,Yes,No,2,Very Strict,12,4.33,4.8,4.8,4.8,4.8,242616,6027.2,0.114,709.4,39,326,0,5803.8,0,0,0,90
+21723272,4BR PENTHOUSE APARTMENT WITH VIEWS OF THE CITY,Others,Entire home,12,4,5,4.5,Yes,Yes,Yes,Yes,No,2,Strict,134,4.66,4.9,4.4,4.9,4.8,1863675,9641.5,0.589,5106,215,150,376618,8930.1,0.467,4184.6,42,48
+21793550,1 Bedroom Condo Unit @ Avida Towers Cebu,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,17,4.53,4.7,4.5,4.7,4.9,62203,1969.3,0.117,259.2,28,337,0,1837.9,0,0,0,90
+21827146,"Myra's Bedsit 5@Horizons101 Condominium, Cebu City",Condominium,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,1,Strict,165,4.75,4.8,4.8,4.8,4.8,35045,1589.7,5.80E-02,96,21,344,1785,1510,1.10E-02,19.8,1,89
+21833233,MyraGÇÖs Bedsit 6@Horizons 101 Condominium Cebu City,Condominium,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,1,Strict,182,4.77,4.8,4.8,4.8,4.9,84028,1550,0.185,282.9,55,310,23314,1538.1,0.167,259,15,75
+21868058,Cebu IT Park Avida Towers Cebu| Studio | City View,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,10,Strict,18,4.56,4.6,4.5,4.8,4.9,15414,1336.4,3.30E-02,42.2,12,353,0,1339.1,0,0,0,90
+21948312,Sunny 2br condo in SRP | Near NuSTAR & SM Seaside,Condominium,Entire home,4,2,3,1,Yes,Yes,No,Yes,Yes,2,Moderate,26,4.73,4.9,4.8,4.8,4.8,602024,2577.9,0.638,1649.4,233,132,212484,2563.6,0.911,2360.9,82,8
+21953729,Studio Unit in San Remo Oasis SRP for rent,Others,Entire home,2,,,1,Yes,Yes,Yes,No,Yes,1,Strict,7,4.71,5,4.7,4.7,3.7,23856,2032.7,3.30E-02,65.4,12,353,0,0,0,0,0,90
+21986810,Condo unit at Kasambagan Cebu City with Kitchen,Condominium,Entire home,4,1,1,1,Yes,Yes,Yes,No,No,2,Flexible,19,4.42,4.7,4.4,4.6,3.8,64061,752.7,0.298,221.7,86,279,5688,730.6,0.143,101.6,8,82
+21988311,"HavenofPeace, 42nd Flr@Horizons, Cebu. HiSpeedWifi",Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,3,Strict,198,4.8,4.8,4.7,4.9,4.9,303104,1274.4,0.783,980.9,242,123,86599,1120.9,0.906,1018.8,77,13
+22067093,1BR Condo with Mall Access | Uptown Cebu,Others,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,90,Very Strict,44,4.8,4.9,4.8,5,4.7,139377,1992.6,0.264,510.5,72,293,3625,1767.4,0.4,725,2,88
+22110583,1-BR (45sqm) near Ayala Center Cebu,Condominium,Entire home,3,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,77,4.79,4.8,4.8,4.8,4.5,233184,2388.2,0.279,677.9,96,269,53038,2201.6,0.348,768.7,24,66
+22169840,UNIT 610 BLOQ Studio in Cebu+ Wifi + Chromecast TV,Condominium,Entire home,3,,1,1.5,Yes,Yes,Yes,Yes,No,2,Very Strict,91,4.87,5,4.9,4.9,4.7,152339,1119.7,0.368,424.3,132,233,3235,1040.5,3.30E-02,35.9,3,87
+22272297,Ayala Mall 10mins walk Cebu City Apartment & Pool,Condominium,Entire home,4,2,2,2,Yes,Yes,Yes,Yes,Yes,1,Flexible,173,4.86,4.9,4.8,4.9,4.7,1054509,4130,0.699,2889.1,255,110,167872,3387.2,0.556,1865.2,50,40
+22293033,"Horizons 101, 34 Cview",Others,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,30,Very Strict,17,4.82,4.9,4.8,4.9,4.9,55282,1423.3,0.106,158.4,37,328,16398,1268.4,0.144,182.2,13,77
+22346408,Fully Furnished Studio Condo Unit@ Mivesa Garden,Private room,Private room,,,1,0,Yes,Yes,Yes,Yes,Yes,3,Very Strict,21,4.9,4.9,4.8,5,4.7,366211,1735.3,0.765,1322.1,212,153,144838,1609.3,1,1609.3,90,0
+22460398,Cebu IT Park studio - Olive,Others,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,67,4.85,5,4.9,5,5,186805,1632.1,0.31,511.8,113,252,29392,1494.7,0.222,326.6,20,70
+22493391,Seaview Ultima Loft Fountain Cebu,Others,Entire home,8,1,2,1.5,Yes,Yes,Yes,Yes,Yes,1,Very Strict,11,5,5,4.8,4.9,4.9,91396,5941.6,0.129,904.9,13,352,0,7916.9,0,0,0,90
+22520169,2B Spacious apartment with balcony + Romantic view,Condominium,Entire home,4,2,2,1.5,Yes,Yes,Yes,Yes,Yes,1,Flexible,92,4.83,4.8,4.8,4.9,4.7,520473,3736.2,0.419,1526.3,143,222,31007,3724.8,0.136,469.8,9,81
+22521446,Studio Unit Sanremo Oasis at City di Mare,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Strict,23,4.83,4.8,4.9,4.8,4.7,95635,1854,0.151,262,55,310,3290,2072.1,2.20E-02,36.6,2,88
+22570815,1 BR Condo Sundance,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,7,Moderate,21,4.76,4.9,4.4,4.8,4.9,126804,1793.4,0.231,451.3,65,300,0,1560.5,0,0,0,90
+22583178,"Chic & Cozy 1 BR unit w/ fiber wifi, Mivesa Garden",Others,Entire home,4,1,1,1,Yes,Yes,Yes,Yes,Yes,30,Moderate,25,4.8,5,4.9,5,4.8,56727,1859.8,9.10E-02,171.4,30,335,10710,1784.2,6.70E-02,119,6,84
+22599197,Chic Condo | IT Park Cebu | Avida Riala,Condominium,Private room,2,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,180,4.85,4.9,4.8,4.9,4.9,422326,1291,0.893,1157.1,326,39,106235,1314.2,0.9,1180.4,81,9
+22605641,RDGÇÖs Studio Unit @ Mivesa (near IT Park),Condominium,Private room,,,2,0,Yes,Yes,Yes,Yes,Yes,30,Moderate,34,4.68,4.7,4.8,4.8,4.7,60524,1037.5,0.208,216.9,58,307,9483,1033.2,0.75,790.2,9,81
+22607468,"HOMEY Studio near ITPark, Waterfront & JY-Lahug",Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,55,Flexible,65,4.75,4.9,4.7,4.9,4.5,140238,1197.5,0.349,418.6,117,248,40823,1183.5,0.486,567,35,55
+22642769,Ultima Ramos Tower Unit w/ nice city view & WiFi,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,No,2,Moderate,99,4.47,4.7,4.3,4.7,4.7,14927,1816.2,3.70E-02,45.9,12,353,0,1238.7,0,0,0,90
+22656649,"Chillhauz (SM,Ayala,IT,City) W/Pool & WiFi",Condominium,Private room,4,,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,176,4.65,4.8,4.5,4.8,4.8,112823,1677.9,0.236,386.4,69,296,19630,1626,0.133,218.1,12,78
+22674846,Studio Unit for 2 with fiber optic wifi,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,No,3,Flexible,20,4.4,4.8,4.5,4.6,4.7,19276,1253.2,4.90E-02,52.8,18,347,0,1488.5,0,0,0,90
+22728140,No Pest Unit @ the center of Cebu Sinulog Festival,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,150,4.81,4.9,4.8,4.9,4.8,279478,1889.1,0.392,765.7,143,222,102564,2269.9,0.533,1139.6,48,42
+22755839,"Sienna (Solinea Studio, Cebu Business Park)",Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,Yes,7,Very Strict,90,4.83,4.9,4.7,5,5,190079,1527.5,0.431,660,124,241,30061,1410.8,0.286,429.4,20,70
+22765211,Cozy CEBU CONDO | Families & Tour Friendly,Condominium,Entire home,5,2,3,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,22,4.27,4.6,4.5,4.3,4.6,94458,3538.4,0.047,261.7,17,348,2956,3117.5,1.10E-02,32.8,1,89
+22794300,Cebu Horizons 101 - panoramic view,Condominium,Entire home,5,2,3,2,Yes,Yes,Yes,Yes,Yes,1,Flexible,10,4,4.4,4.4,4.2,4.5,122742,3741.9,8.50E-02,336.3,31,334,0,3397.6,0,0,0,90
+22805272,2BR Spacious Condo at Amalfi at City di Mare Cebu,Condominium,Entire home,4,2,3,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,40,4.58,4.6,4.5,4.7,4.2,148033,2738.1,0.277,787.4,52,313,0,2541.2,0,0,0,90
+22849557,2 BR 1TB w/ 20 mbps WiFi @ AMALFI OASIS,Condominium,Entire home,4,2,3,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,25,4.76,5,4.8,5,4.6,33036,3039.5,3.40E-02,101,11,354,11432,2887,6.80E-02,193.8,4,86
+22857625,1-Bedroom Condo Unit Near IT Park and JY Mall,Others,Entire home,4,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,92,4.58,4.8,4.5,4.8,4.7,64252,1290.7,0.276,347.3,51,314,0,1314.3,0,0,0,90
+22871367,"Cebu ITPark Avida Towers Cebu, 1 BR, 300mbpsGFiber",Condominium,Entire home,4,1,2,1,Yes,Yes,Yes,Yes,Yes,10,Very Strict,23,4.74,5,4.7,4.9,5,203890,1927.3,0.368,708,106,259,22756,1829.9,0.144,252.8,13,77
+22908513,Sanremo Oasis_2420,Condominium,Entire home,4,2,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,42,4.29,4.4,4.4,4.4,4.1,230015,2708.2,0.233,630.2,85,280,50303,2543.1,0.222,558.9,20,70
+22933798,Cozy Room 14 @Horizons 101 +Wi-Fi & Netflix,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,75,4.61,4.8,4.7,4.8,4.8,119670,1383.7,0.238,327.9,87,278,18069,1339,0.144,200.8,13,77
+23032899,1BR Fully Furnished @ Azalea Place Cebu,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,3,5,5,5,5,4.7,52181,1711.5,9.00E-02,167.2,28,337,0,1511.6,0,0,0,90
+23052704,San Remo Oasis SRP Condo Unit For Rent,Condominium,Entire home,4,2,2,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,43,4.65,4.6,4.5,4.7,4.6,130705,2441,0.175,358.1,64,301,12548,2535.1,5.60E-02,139.4,5,85
+23097775,La Guardia Flat 2 near  IT Park,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,208,4.8,4.8,4.8,4.8,4.7,253931,1454.4,0.517,709.3,185,180,27102,1560.9,0.211,301.1,19,71
+23215187,Cozy & Spacious Executive Suite in Cebu,Private room,Private room,,,2,0,Yes,Yes,Yes,Yes,Yes,2,Very Strict,47,4.57,4.8,4.5,4.7,4.8,219521,2111.6,0.322,667.2,106,259,13551,2143.3,8.10E-02,183.1,6,84
+23239116,Myra's Bedsit 7@ Horizons101 Condominium Cebu City,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,1,Strict,203,4.77,4.8,4.8,4.8,4.9,145120,1524,0.313,488.6,93,272,26322,1467.9,0.189,292.5,17,73
+23328278,Modern 2-Bedroom Home in a green & gated community,Condominium,Entire home,4,2,3,1,Yes,Yes,Yes,Yes,Yes,14,Flexible,66,4.85,5,4.8,5,4.7,137603,3150.8,0.115,377,42,323,0,2898.8,0,0,0,90
+23345404,Enjoy sky and sea(1-bdr) ocean view@horizon 101,Condominium,Entire home,3,1,3,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,27,4.15,4.3,4.2,4.2,4.6,20117,1461.7,3.80E-02,55.1,14,351,8924,1479.2,6.70E-02,99.2,6,84
+23353776,Myra's Bedsit 8@ Horizons101 Condominium Cebu City,Condominium,Entire home,4,,,1,Yes,Yes,Yes,Yes,Yes,1,Strict,156,4.88,4.9,4.8,4.9,4.9,122571,1616.1,0.287,439.3,80,285,36753,1541.2,0.284,417.6,25,65
+23401936,"Fully Furnished, 1 BR Condo Unit w/ Panoramic View",Others,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,18,4.94,4.8,4.7,4.8,4.8,88955,2664.2,9.30E-02,243.7,34,331,7362,2685.1,3.30E-02,81.8,3,87
+23480508,Cebu Horizons 101 - panoramic view,Condominium,Entire home,5,2,4,2,Yes,Yes,Yes,Yes,Yes,1,Moderate,24,4.46,4.7,4.5,4.8,4.8,57497,3846.1,4.50E-02,172.1,15,350,0,3806.6,0,0,0,90
+23529055,Resort Style Condo Studio w. priv. Garden&Terrace,Condominium,Private room,2,1,2,1.5,Yes,Yes,Yes,Yes,Yes,1,Very Strict,63,4.32,4.7,4.3,4.5,4.4,205706,1295.8,0.456,582.7,161,204,41996,1135.3,0.487,538.4,38,52
+23641656,"Sunny Gem in the Heart of Cebu: Pool,Gym,fast WiFi",Others,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,73,4.84,4.9,4.7,5,4.9,335652,1590.2,0.733,1177.7,209,156,4406,1541.2,0.3,440.6,3,87
+23657380,Cebu Business Park studio - Jade,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,90,Very Strict,45,4.8,4.9,4.7,4.9,5,360943,1929.3,0.558,1055.4,191,174,99825,1691,0.656,1109.2,59,31
+23672905,Cebu Business Park studio - Amber,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,7,Very Strict,61,4.85,4.9,4.7,5,4.9,368462,1830,0.703,1288.3,201,164,115275,1797,0.736,1325,64,26
+23705290,Be Cozy for 4 @Avenir. Near IT PARK & Ayala w/WIFI,Others,Entire home,4,,2,1,Yes,Yes,No,Yes,No,2,Flexible,199,4.82,4.9,4.8,4.9,4.8,137640,1673.3,0.225,377.1,82,283,37085,1718.9,0.233,412.1,21,69
+23721426,Riz Japandi Studio Sea View @ Horizons 101,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,No,2,Moderate,148,4.79,4.9,4.7,4.9,4.9,225600,1344.6,0.517,685.7,170,195,80365,1352.7,0.667,892.9,60,30
+23735789,14-B 2BR/2CR With balcony nr ayala/sm,Condominium,Entire home,6,2,4,2,No,Yes,No,Yes,Yes,2,Moderate,228,4.68,4.9,4.5,4.8,4.8,826952,2717,0.83,2265.6,303,62,179576,2577.8,0.767,1995.3,69,21
+23744664,Cebu Ayala 5 mins walk studio Free wifi n Netflix,Others,Entire home,2,1,2,1.5,Yes,Yes,Yes,Yes,Yes,5,Flexible,74,4.7,4.8,4.8,4.9,4.8,285549,1386.4,0.629,867.9,207,158,46011,1497.7,0.333,511.2,30,60
+23768253,"The Loft at Amalfi Oasis. 2 BR fully
+furnished.",Condominium,Entire home,4,2,3,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,19,4.74,4.8,4.7,4.9,4.5,31020,3136.1,0.027,85,10,355,3067,3076,1.10E-02,34.1,1,89
+23792859,Horizon 101 Cebu by KC Studio 4 good for 2,Condominium,Private room,2,,1,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,28,4.39,4.7,4.6,4.7,4.8,35037,1471.4,7.00E-02,107.1,23,342,1283,1252.3,1.10E-02,14.3,1,89
+23796185,Comfy Avida IT Park Condo 100MBPS(1 BR) w/ Pool,Condominium,Entire home,4,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,36,4.72,4.9,4.7,4.7,4.9,31176,2503,3.40E-02,89.3,12,353,0,2382.7,0,0,0,90
+23813385,A Cozy fully furnished Studio Condo in Mabolo Cebu,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,52,4.83,4.9,4.8,5,4.9,54909,1549.8,0.104,150.4,38,327,4015,1686.7,2.20E-02,44.6,2,88
+23817663,Horizons101 Studio - SmartTV/Washer/Dryer/Wifi,Condominium,Entire home,2,1,3,1,Yes,Yes,Yes,Yes,Yes,10,Flexible,49,4.59,4.7,4.6,4.8,4.9,129186,1339.9,0.487,662.5,95,270,39987,1337.9,0.333,444.3,30,60
+23881010,Great location! Comfy 1 bedrm. Check discounts!,Condominium,Entire home,3,1,1,1,Yes,Yes,Yes,Yes,Yes,5,Very Strict,46,4.76,4.7,4.7,4.6,5,140300,2579.5,0.192,490.6,55,310,38873,2379.5,0.178,431.9,16,74
+23881530,Studio | WIFI | IT Park |15/F Avida Riala T1,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,10,Very Strict,22,4.86,4.9,4.9,5,4.9,31624,1464.2,7.20E-02,109,21,344,0,1380.6,0,0,0,90
+23918485,2nd floor spacious with 2 beds for 4 people,Condominium,Entire home,4,1,2,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,49,4.96,4.9,5,5,4.9,149533,2897.6,0.141,447.7,47,318,0,2791.7,0,0,0,90
+23973827,Poolside Condo Unit in Mabolo Garden Flats,Others,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,5,Moderate,82,4.85,4.9,4.9,5,4.8,132945,2024.7,0.201,370.3,72,293,51587,1483,0.4,573.2,36,54
+24026115,*Your Home Away*  @ Horizons 101 condo. With Fiber,Condominium,Entire home,2,,2,1.5,Yes,Yes,Yes,Yes,Yes,2,Moderate,113,4.56,4.7,4.5,4.8,4.8,119724,1304.4,0.289,392.5,88,277,0,1212.5,0,0,0,90
+24065682,Khalils' Horizons 101 Studio Type Condominium,Condominium,Private room,3,,2,1,Yes,Yes,No,Yes,Yes,3,Moderate,56,4.8,4.8,4.8,4.9,4.8,85596,1506.1,0.159,234.5,58,307,0,1431.3,0,0,0,90
+24080719,Lorea's Abode - Cebu(Fully Furnished Condo Unit),Condominium,Private room,,,2,0,Yes,Yes,Yes,Yes,Yes,2,Moderate,135,4.59,4.7,4.7,4.7,4.8,100751,1541.5,0.189,284.6,67,298,0,1630.4,0,0,0,90
+24168155,Fast internet at Horizon 101 Cebu,Condominium,Entire home,4,,1,1,Yes,Yes,Yes,No,Yes,1,Moderate,30,4.43,4.7,4.3,4.8,4.8,30616,1664.3,4.10E-02,83.9,15,350,2956,1489.1,2.20E-02,32.8,2,88
+24254540,1BR - 17th fr Mountain-view @ Sundance,Condominium,Private room,3,1,2,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,3,4.33,4.7,3.7,3.7,5,40771,948.4,0.214,197.9,44,321,0,991.6,0,0,0,90
+24299060,HeartGÇÖs Crib Fully Furnished Studio with Smart TV,Condominium,Entire home,2,,1,1.5,Yes,Yes,Yes,Yes,Yes,2,Strict,49,4.59,4.6,4.5,4.6,4.7,29729,890.2,0.153,138.3,33,332,0,883.1,0,0,0,90
+24333463,AFFORDABLE KEANN'S PLACE W/ WIFI@HORIZON 101,Condominium,Private room,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Strict,48,4.46,4.5,4.5,4.5,4.8,14766,1328.4,3.00E-02,40.5,11,354,0,0,0,0,0,90
+24403182,I G¥ñn+Å Modern 1BED ROOM with Queen Bed (2Guests),Condominium,Entire home,3,1,1,1,Yes,Yes,Yes,Yes,No,2,Very Strict,70,4.27,4.6,4.3,4.5,4.4,89156,1354.9,0.199,273.5,65,300,32402,1145.7,0.549,635.3,28,62
+24485452,2BR Chic&Homey near NuStar&SM Seaside | Pool+Wi-Fi,Condominium,Entire home,4,2,4,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,85,4.88,4.9,4.8,5,4.7,379561,3639.4,0.288,1039.9,105,260,79975,3657.9,0.244,888.6,22,68
+24500403,Amalfi Oasis Condominiums,Condominium,Entire home,4,2,2,1,Yes,Yes,Yes,Yes,No,2,Moderate,30,4.97,4.8,4.8,4.9,4.6,312093,3006.7,0.282,855,103,262,62856,2849.3,0.244,698.4,22,68
+24528239,Quiet Studio for 2 near Cebu Doctors' Hospital,Private room,Hotel room,2,1,1,1.5,Yes,Yes,No,Yes,No,1,Moderate,61,4.69,4.9,4.8,4.8,4.9,26279,1530,4.40E-02,72,16,349,0,1467.4,0,0,0,90
+24534689,Corner 1BR Loft with Tub best for Groups,Others,Entire home,12,1,2,2,Yes,Yes,Yes,Yes,Yes,1,Flexible,87,4.52,4.8,4.3,4.7,4.8,551744,4960,0.293,1511.6,107,258,0,4772.6,0,0,0,90
+24588340,"My \HOMEY\ Abode - a 1 BR cosy Condo Unit""""",Condominium,Entire home,5,1,1,1,Yes,Yes,Yes,Yes,Yes,5,Moderate,18,4.83,4.9,4.6,4.9,4.7,206072,1211.7,0.549,677.9,167,198,30288,1075.1,0.333,336.5,30,60
+24688861,"Furnished townhouse near IT Park,Cebu",Home,Entire home,8,3,6,2.5,Yes,Yes,Yes,Yes,No,1,Moderate,118,4.58,4.8,4.4,4.8,4.7,142468,4522.9,8.80E-02,390.3,32,333,0,0,0,0,0,90
+24706107,"Mivesa Garden Residences, Salinas Drive Cebu City",Condominium,Entire home,2,1,2,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,76,4.58,4.8,4.5,4.8,4.5,180317,1157.4,0.443,512.3,156,209,28893,1142.1,0.289,321,26,64
+24707960,A/C Private Room at the heart of Cebu City w/ Wifi,Private room,Private room,,,1,0,Yes,Yes,No,Yes,No,1,Moderate,159,4.24,4.7,4,4.7,4.6,39818,743.7,0.403,286.5,56,309,0,797.1,0,0,0,90
+24723539,Newly Renovated Studio Space I.T Park Cebu (1904),Condominium,Entire home,2,1,1,0,Yes,Yes,Yes,Yes,Yes,1,Strict,49,4.92,4.9,4.9,4.8,5,359436,1731.4,0.581,984.8,212,153,97319,1479.8,0.733,1081.3,66,24
+24809690,Yami's Pad at Azalea Place Cebu,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,3,Flexible,55,4.82,4.9,4.7,5,4.8,54536,2614.2,0.094,232.1,22,343,0,2770.6,0,0,0,90
+24859335,HeartGÇÖs Crib Fully Furnished Studio with Smart TV,Condominium,Entire home,2,,1,1.5,Yes,Yes,Yes,Yes,Yes,2,Strict,44,4.68,4.8,4.7,4.8,4.7,111642,990.2,0.426,421.3,113,252,0,1017,0,0,0,90
+24896530,700Mbps WIFI #1 Jasmin 2-Story Apartment,Others,Entire home,16,2,6,2,Yes,Yes,Yes,Yes,No,2,Very Strict,199,4.8,4.9,4.8,4.9,4.8,388191,2133.6,0.479,1063.5,175,190,69988,1839.1,0.467,777.6,42,48
+24942261,A charming place that makes you feel that GÇÿyou never left homeGÇÖ.,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,3,Flexible,119,4.9,4.9,4.9,5,4.8,172645,1977.1,0.259,496.1,90,275,20915,1837.9,0.133,232.4,12,78
+24949686,Fully furnished studio unit at San Remo Oasis,Condominium,Entire home,2,,,1,Yes,Yes,Yes,Yes,Yes,1,Strict,26,4.5,4.7,4.4,4.7,4.1,78148,1974.5,0.134,261.4,40,325,20411,1976,0.122,226.8,11,79
+24969611,Cozy one bedroom condo at the heart of Cebu!,Condominium,Entire home,3,1,1,1,Yes,Yes,Yes,Yes,Yes,5,Very Strict,61,4.74,4.8,4.7,4.8,4.9,98695,1612.2,0.164,270.4,60,305,5520,1475.9,4.40E-02,61.3,4,86
+24978665,New Starwars 4BR Townhome in G¥ñ of Cebu + Wifi,Home,Entire home,16,5,9,4.5,Yes,Yes,Yes,Yes,No,1,Flexible,301,4.88,4.9,4.8,4.9,4.4,2102551,9819.4,0.589,5760.4,215,150,506060,10906.8,0.5,5622.9,45,45
+25195143,City Haven- studio unit with balcony @ Sundance,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,73,4.84,4.9,4.8,4.9,4.7,165969,1228.4,0.375,454.7,137,228,57665,1182.9,0.544,640.7,49,41
+25221289,Sanremo Oasis near NUStar SM Seaside ILCorso,Condominium,Entire home,4,2,2,1.5,Yes,Yes,Yes,Yes,Yes,1,Moderate,153,4.56,4.6,4.5,4.8,4.4,338973,1836,0.499,928.7,182,183,70720,1707.8,0.456,785.8,41,49
+25300049,Appleone Banawa T1-3C6-Unit3 (w/ Wi-Fi + cable),Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,48,4.63,4.8,4.5,4.8,4.6,128298,1354.9,0.27,368.7,94,271,19684,1341.5,0.165,231.6,14,76
+25430168,Little Flower Dormitel 202 w/ Wifi,Private room,Private room,2,,1,1,Yes,Yes,No,Yes,No,2,Moderate,16,4.88,5,4.9,5,4.9,36197,1272.1,8.20E-02,99.2,30,335,8756,1451.9,6.70E-02,97.3,6,84
+25506881,I G¥ñn+Å Modern STUDIO @ AVIDA RIALA G¥ñn+Å IT PARK 12Fl.,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,No,7,Strict,42,4.4,4.5,4.2,4.5,4.8,22008,1364.1,4.10E-02,60.3,15,350,0,0,0,0,0,90
+25519786,WFH studio unit IT park w/ Ergo chair!,Others,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,20,Very Strict,137,4.84,4.8,4.5,4.9,5,236954,1793.3,0.401,709.4,134,231,42103,1516.9,0.322,467.8,29,61
+25655340,2BR Corner Suite near Ayala Mall!,Condominium,Entire home,4,2,2,2.5,Yes,Yes,Yes,Yes,Yes,1,Very Strict,196,4.85,4.9,4.8,4.9,4.8,947137,3542.9,0.734,2594.9,268,97,269424,3532.1,0.844,2993.6,76,14
+25736187,Mivesa Garden 1 bedrm fully furnished,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,14,Flexible,4,4.75,4.5,5,4.8,4.2,146253,1956,0.486,1001.7,71,294,1952,1785.3,2.10E-02,40.7,1,89
+25781079,Cozy 1-bedroom condo - Cebu IT park Avida tower 1,Condominium,Entire home,4,1,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,90,4.43,4.8,4.1,4.7,4.9,446843,1811.8,0.775,1396.4,248,117,112710,1671.2,0.744,1252.3,67,23
+25854949,Quiet and Peaceful Condo in Cebu City w/ PLDTFiber,Condominium,Entire home,3,1,2,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,46,4.93,5,4.8,5,4.8,38649,1115.3,0.524,613.5,33,332,0,1139.3,0,0,0,90
+25862289,Prince accommodation,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,14,Moderate,26,4.92,5,5,5,4.9,17326,1522.9,3.80E-02,65.4,10,355,0,1422.6,0,0,0,90
+25874106,Homey Studio at the Oasis,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,7,Very Strict,42,4.95,4.9,4.9,5,4.6,230852,1535.9,0.512,793.3,149,216,27824,1391.5,0.339,471.6,20,70
+25921819,2BR Unit Sanremo Oasis at City of Sea,Condominium,Entire home,5,2,3,1,Yes,Yes,Yes,Yes,Yes,2,Strict,24,4.83,4.8,4.8,4.9,4.7,138977,2634.7,0.145,380.8,53,312,21583,2574.1,0.1,239.8,9,81
+25949947,Modern studio w/300mbps intenet+netflix,Condominium,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,46,4.65,4.8,4.7,4.6,5,296937,1871.4,0.425,813.5,155,210,34075,1773.4,0.2,378.6,18,72
+26019426,Nice studio apartment in IT Park in Cebu City,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,15,Moderate,16,4.44,4.9,4.5,4.6,4.9,326279,1448,0.768,1113.6,225,140,80974,1357,0.831,1140.5,59,31
+26185612,"Fast Wifi 496 Mbps, Bus Terminal Netflix Smart TV",Condominium,Entire home,2,,2,1,Yes,Yes,No,Yes,Yes,4,Very Strict,80,4.85,5,4.8,5,5,70353,2377.3,7.70E-02,192.7,28,337,4071,2041,2.20E-02,45.2,2,88
+26298430,Homely Fully-furnished Studio  IT Park shared wifi,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,45,4.71,4.9,4.6,5,5,174044,1167,0.449,535.5,146,219,27441,1117.2,0.267,304.9,24,66
+26308939,"Cozy studio and IT Park, Lahug",Condominium,Entire home,2,,2,1,Yes,Yes,Yes,Yes,Yes,5,Flexible,37,4.86,4.9,4.8,4.9,5,137251,1691.5,0.313,544.6,79,286,1450,1563.6,0.027,39.2,1,89
+26310036,Minimalist studio unit for rent (pool view),Condominium,Entire home,2,,1,1,Yes,Yes,Yes,No,Yes,90,Very Strict,1,,,,,,7972,698.6,3.70E-02,24.8,12,353,4014,687,6.70E-02,44.6,6,84
+26328751,"Fast wifi 495 mbps, Netflix Mall Bus Terminal2017",Condominium,Entire home,2,,2,1,Yes,Yes,Yes,Yes,Yes,4,Very Strict,66,4.85,4.8,4.7,4.9,4.9,59272,2380.2,6.60E-02,162.4,24,341,1617,1888.1,1.10E-02,18,1,89
+26427946,Family Hub @ Avenir 22nd near IT park & Ayala,Condominium,Entire home,4,,3,1,Yes,Yes,Yes,Yes,No,2,Flexible,210,4.71,4.8,4.5,4.8,4.9,183910,1675.5,0.299,503.9,109,256,25714,1525.8,0.189,285.7,17,73
+26463833,"La Guardia Flats 2, Condominium",Condominium,Private room,2,3,1,0,Yes,Yes,No,Yes,Yes,6,Very Strict,8,4.75,5,5,5,4.5,29738,1104.9,8.70E-02,99.8,26,339,0,1091.8,0,0,0,90
+26553719,G¥ñn+Å WONDERFUL FIREWORKS G¥ñn+Å IT PARK 28th FLOOR,Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,No,7,Strict,34,4.06,4.4,3.8,4.4,4.7,101550,1502.1,0.205,292.7,71,294,86938,1425.1,0.847,1207.5,61,29
+26697038,Lovely Avida Towers IT Park Cebu w/ Wi-fi,Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,Yes,7,Very Strict,64,4.73,4.9,4.6,4.9,4.9,337254,1311.5,0.751,986.1,257,108,45063,1278.9,0.537,672.6,36,54
+26698235,Panorama Place (Fits 4 |G¥ñ of Cebu| Chromecast),Condominium,Entire home,4,1,2,1,Yes,Yes,No,Yes,No,1,Flexible,187,4.5,4.8,4.3,4.8,4.9,201693,1247,0.455,552.6,166,199,62227,1149.2,0.6,691.4,54,36
+26721401,"Accessible 3BR, 3 car park house, Cebu City proper",Home,Entire home,15,3,8,2,Yes,Yes,Yes,Yes,No,2,Very Strict,299,4.65,4.9,4.5,4.9,4.7,1315585,4808.3,0.751,3604.3,274,91,293348,4934.4,0.667,3259.4,60,30
+26728019,1BR Hotel Apartment w/ Pool &  Gym near Ayala Mall,Condominium,Entire home,2,1,1,1,Yes,Yes,No,Yes,Yes,90,Very Strict,54,4.83,4.9,4.8,4.9,4.8,18069,1562.6,3.30E-02,49.5,12,353,8532,1421.4,6.70E-02,94.8,6,84
+26761855,Keira's Place,Condominium,Entire home,6,2,2,2,Yes,Yes,Yes,Yes,Yes,1,Very Strict,18,4.5,4.8,4.1,4.8,4.9,60178,4519.3,4.50E-02,194.1,14,351,42106,4809.2,0.1,467.8,9,81
+26793339,"Luxury Modern Glass 3 Bed Loft Condo, City Center",Others,Entire home,6,2,3,2.5,Yes,Yes,Yes,Yes,Yes,5,Very Strict,54,4.61,4.8,4.5,4.7,4.8,1102625,4198.9,0.726,3020.9,265,100,224757,3975.8,0.644,2497.3,58,32
+26817670,Gÿà Explore Cebu from cozy studio @ vibrant IT Park,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,Yes,Yes,5,Moderate,155,4.87,4.9,4.9,5,4.9,294436,1443.4,0.553,806.7,202,163,59276,1329,0.5,658.6,45,45
+26860830,Serenity Farm and Resort HOUSE-2 Exclusive,Home,Entire home,16,8,8,7.5,Yes,No,Yes,Yes,Yes,2,Flexible,8,4.5,4.9,4.5,4.6,4.5,309779,28224.9,3.00E-02,848.7,11,354,252974,28121.1,0.1,2810.8,9,81
+26909955,500Mbps internet Largest 2BDRM in GrandRsdncs,Condominium,Entire home,12,2,2,2,Yes,Yes,Yes,Yes,Yes,2,Very Strict,149,4.91,4.9,4.9,4.9,4.8,1174510,4708.8,0.677,3217.8,247,118,261398,4483.9,0.644,2904.4,58,32
+26942715,GÇÿNelsonPlaceGÇÖStudioTypeCondoFurnished  500mbpswifi,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,1,Strict,97,4.87,4.9,4.8,4.9,4.8,298563,1277.6,0.79,1012.1,233,132,49129,1163.6,0.6,701.8,42,48
+26982751,Studio Apartment Near Cebu IT Park and Ayala Mall,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,No,No,1,Moderate,10,3.6,4,3.3,4.1,4.7,74117,2029.3,0.107,208.8,38,327,10821,1876.9,6.70E-02,120.2,6,84
+27068143,2 Bedroom Condo with Pool and Fast Internet,Condominium,Entire home,4,2,2,1,Yes,Yes,Yes,Yes,Yes,1,Strict,169,4.78,4.9,4.8,4.9,4.6,328765,2757,0.438,1240.6,116,249,0,2527.6,0,0,0,90
+27076978,RonzelGÇÖs Place 43 @ Horizons 101 Condominium,Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,Yes,2,Strict,248,4.81,4.8,4.9,4.9,4.8,128476,1710,0.184,352,67,298,36136,1594.3,0.256,401.5,23,67
+27170625,"1-Bedroom Corner Unit, 24th Flr, Horizons101, T1",Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,32,4.78,4.8,4.9,4.9,4.7,154942,1775.8,0.258,470.9,85,280,14833,1654.4,0.167,274.7,9,81
+27278324,Cebu IT Park AVIDA RIALA Tower 1,Home,Entire home,3,,2,1,Yes,Yes,Yes,Yes,No,6,Moderate,29,4.79,4.8,4.7,5,5,55973,4045.4,4.00E-02,170.6,13,352,32236,5277.7,6.70E-02,358.2,6,84
+27280522,One bedroom condo Cebu IT Park Avida Towers Riala,Private room,Private room,,,1,0,Yes,Yes,Yes,Yes,Yes,7,Very Strict,14,4.93,5,4.9,4.9,4.9,34299,4368.5,4.10E-02,109.2,13,352,0,5396.6,0,0,0,90
+27346798,Great Location at the heartofCebu/ Barkada -Family,Condominium,Entire home,10,1,12,1,Yes,Yes,Yes,Yes,Yes,1,Very Strict,41,4.73,4.9,4.7,4.9,4.7,63308,2660.7,6.40E-02,176.8,23,342,0,2513.4,0,0,0,90
+27509035,Cebu IT Park Riala Studio King Bed,Condominium,Entire home,4,,3,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,202,4.75,4.9,4.6,4.9,4.9,111068,2354.1,0.129,304.3,47,318,8477,2207.2,4.40E-02,94.2,4,86
+27637453,"Edz Crib 1 @ AVIDA Riala, w/ Netflix",Condominium,Entire home,2,1,2,1,Yes,Yes,Yes,Yes,No,2,Flexible,155,4.86,4.9,4.9,4.9,4.9,285133,1504.6,0.51,781.2,186,179,58167,1409.1,0.444,646.3,40,50
+27646719,Jo and Nin Fully furnished Studio Unit,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,No,30,Flexible,44,4.59,4.7,4.7,4.7,4.8,101088,849.5,0.584,500.4,118,247,2008,819.1,8.00E-02,80.3,2,88
+27692123,Affordable Condo Cebu IT PARK FAST Wifi,Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,Yes,2,Very Strict,196,4.96,4.9,4.9,5,4.9,369051,1262.2,0.795,1011.1,290,75,67861,1163.5,0.644,754,58,32
+27734924,"\Budget Friendly comfort in Cebu awaits you!\""",Condominium,Entire home,6,1,2,1,Yes,Yes,Yes,Yes,No,2,Strict,34,4.65,4.9,4.6,4.8,4.5,13216,1111.7,4.90E-02,53.9,12,353,0,955.5,0,0,0,90
+27855002,RosecanGÇÖs Place 1 @ Horizon 101 Condominium,Condominium,Entire home,3,,2,1,Yes,Yes,No,Yes,Yes,1,Very Strict,331,4.81,4.8,4.8,4.9,4.9,178180,1648.5,0.29,488.2,106,259,24039,1531.3,0.178,267.1,16,74
+27858025,Bright One Bedroom at Cebu IT Park,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,388,4.93,5,4.9,5,5,409282,1258.9,0.89,1121.3,325,40,89216,1145.6,0.867,991.3,78,12
+27870168,RosecanGÇÖs place 3 @ Horizon 101 Condominium,Condominium,Entire home,3,,2,1,Yes,Yes,No,Yes,Yes,1,Very Strict,163,4.87,4.8,4.8,4.9,4.9,133577,1488.5,0.214,366,78,287,16340,1364.3,0.133,181.6,12,78
+27908573,RonzelGÇÖs Place 46 @ Horizons 101 Condominium,Condominium,Entire home,3,,1,1,Yes,Yes,Yes,Yes,Yes,2,Strict,200,4.88,4.9,4.9,5,4.9,173679,1699.1,0.255,475.8,93,272,43665,1643.3,0.3,485.2,27,63
+27909012,Azalea Place Cebu City Condominium,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,8,4.38,4.8,4.2,4.1,4.4,30617,2548.1,3.60E-02,91.7,12,353,0,2557.3,0,0,0,90
+27942507,RosecanGÇÖs place 2 @ Horizon 101 Condominium,Condominium,Entire home,3,,1,1,Yes,Yes,No,Yes,Yes,1,Very Strict,250,4.84,4.9,4.9,4.9,4.9,171668,1539.5,0.271,470.3,99,266,22751,1416.5,0.178,252.8,16,74
+27949434,JTB Deluxe with Twin Beds @Horizons,Condominium,Entire home,2,,2,1,Yes,Yes,No,Yes,Yes,1,Strict,363,4.93,4.9,5,4.9,4.9,331285,1730.2,0.521,928,186,179,71554,1847.3,0.389,795,35,55
+27980566,JAS Spacious and Ultra Quiet Unit @Amalfi Oasis,Condominium,Entire home,4,2,3,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,27,4.44,4.7,4.5,4.7,4.4,474899,3357.9,0.377,1315.5,136,229,193018,3611.4,0.605,2244.4,52,38
+28014426,Cozy Fully-furnished Studio IT Park (shared wifi),Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,60,Flexible,14,4.36,4.6,4.4,4.7,4.6,30162,1387.6,7.00E-02,96.4,22,343,7194,1385.9,5.60E-02,79.9,5,85
+28115865,QuennieGÇÖs Studio w/ 600mbps Wi-fi,Condominium,Entire home,2,1,2,1.5,Yes,Yes,Yes,Yes,Yes,3,Strict,4,4.75,5,4.8,5,5,40341,1204.8,0.226,276.3,33,332,0,1196.4,0,0,0,90
+28118836,FrankGÇÖs Dwelling Place,Condominium,Private room,2,,1,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,87,4.52,4.6,4.3,4.5,4.7,21689,1352.1,6.10E-02,73,18,347,0,0,0,0,0,90
+28134835,New Batmans 4BR Townhome in G¥ñ of Cebu + Wifi,Home,Entire home,16,4,6,4.5,Yes,Yes,Yes,Yes,No,1,Flexible,300,4.87,4.9,4.8,4.9,4.5,1842033,8613.8,0.586,5046.7,214,151,404613,9291.9,0.478,4495.7,43,47
+28135305,Millette's Condo at HORIZONS 101 Cebu,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,68,4.66,4.8,4.8,4.9,4.8,36667,1306.2,8.00E-02,101,29,336,11654,1230.6,0.111,129.5,10,80
+28189561,Cebu City Center w/ Pool & Fiber Wifi,Condominium,Entire home,3,,2,1,Yes,Yes,Yes,Yes,Yes,1,Moderate,23,4.57,4.9,4.6,4.7,4.8,154524,1351,0.33,451.8,113,252,62405,1413.4,0.489,693.4,44,46
+28277541,2BR Sanremo Oasis 2 mins from Smseaside and Nustar,Condominium,Entire home,5,2,3,1,Yes,Yes,Yes,Yes,Yes,2,Flexible,66,4.71,4.8,4.8,4.9,4.5,211877,2294.6,0.255,580.5,93,272,56940,2108.7,0.3,632.7,27,63
+28289814,Sundance Residences (w/ WIFI-balcony-pool-gym),Condominium,Entire home,2,1,2,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,71,4.76,4.9,4.7,4.8,4.9,203065,1463,0.381,556.3,139,226,15838,1494.7,0.111,176,10,80
+28292816,Studio in Avida IT Park w/ High Speed Wifi + Cable,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,47,4.47,4.8,4.2,4.7,5,28425,1989.1,3.60E-02,77.9,13,352,0,1735.8,0,0,0,90
+28303574,Studio Avida Cebu Tower 1 IT Park,Condominium,Entire home,4,1,1,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,35,4.54,4.6,4.5,4.6,4.9,35261,1986.9,0.047,103.4,16,349,8645,1708.5,5.60E-02,96.1,5,85
+28408850,Cozy Condo w/ Fantastic View of Cebu City,Condominium,Entire home,4,1,2,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,26,4.69,4.8,4.6,4.9,4.8,64859,1808.1,0.108,194.8,36,329,17624,1767.4,0.111,195.8,10,80
+28428824,Baseline Residences Studio 8-C,Condominium,Entire home,2,1,1,1,Yes,Yes,Yes,Yes,Yes,5,Moderate,75,4.8,5,4.8,4.8,4.9,256555,1386.5,0.518,702.9,189,176,42715,1391.1,0.356,474.6,32,58
+28445675,Serene Resort Home in Central Cebu Business Park,Condominium,Entire home,2,,3,1,Yes,Yes,Yes,Yes,Yes,90,Very Strict,62,4.65,4.8,4.6,4.7,4.9,142767,2016.6,0.23,482.3,68,297,0,1680.5,0,0,0,90
+28496675,Studio Unit at Grand Residences Cebu  code:F18-P,Condominium,Private room,,,1,0,Yes,Yes,Yes,Yes,No,30,Moderate,12,4.58,4.8,4.5,4.8,4.8,49928,736.7,0.282,201.3,70,295,10321,758,0.144,114.7,13,77
+28574148,15H Walking distance to Ayala & IT Park w/ WIFI,Condominium,Entire home,8,,4,1,Yes,Yes,No,Yes,No,1,Strict,179,4.75,4.8,4.8,4.8,4.9,239844,3377.6,0.186,657.1,68,297,0,3364.8,0,0,0,90
+28599185,Cebu furnished budget condo,Private room,Private room,,,2,0,Yes,Yes,Yes,No,Yes,3,Very Strict,34,4.76,5,4.8,4.9,4.8,15500,1147.9,6.00E-02,66,14,351,15500,1104.8,0.156,172.2,14,76
+28698010,Cozy Studio Unit Condo in The Heart of Cebu,Condominium,Entire home,4,,1,1,Yes,Yes,Yes,Yes,Yes,5,Flexible,127,4.71,4.9,4.6,4.6,4.8,126899,1161.6,0.335,394.1,108,257,25038,1128.9,0.244,278.2,22,68
+28732856,Lovely Space at One Oasis,Others,Entire home,4,2,2,1,Yes,Yes,Yes,Yes,Yes,,Flexible,3,3.67,3.7,3.7,3.3,3.3,25692,1629,5.60E-02,84.8,17,348,0,1721.5,0,0,0,90
+28732903,Cozy Condo 35@Horizons 101 Cebu FIBR+ Netflix,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Strict,98,4.76,4.9,4.8,4.9,4.9,248697,1402.7,0.499,681.4,182,183,51419,1272.1,0.456,571.3,41,49
+28874012,"Spacious 2 Bedrm, Best location!Check discounts.",Condominium,Entire home,6,2,2,1,Yes,Yes,Yes,Yes,Yes,3,Very Strict,43,4.6,4.7,4.5,4.8,5,425113,4173.6,0.285,1197.5,101,264,76739,4104.6,0.2,852.7,18,72
+28976665,New Cozy Condo in Ayala Cebu with Wifi and Netflix,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,40,4.83,4.9,4.8,4.9,4.8,175273,1590.8,0.369,561.8,115,250,76128,1474.2,0.578,845.9,52,38
+29077095,28R Beautiful Condo w/ Magnificent Mountain View,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,Yes,1,Flexible,86,4.7,4.8,4.6,4.9,4.9,119721,1836.1,0.179,341.1,63,302,15781,1921.5,0.105,207.6,8,82
+29091058,Elegance Penthouse | Terrace Panorama |  Netflix,Condominium,Entire home,16,3,3,3,Yes,Yes,Yes,Yes,Yes,1,Strict,261,4.8,4.8,4.7,4.9,4.9,1722276,14312.2,0.308,4731.5,112,253,76238,13358.8,6.70E-02,847.1,6,84
+29091851,Cebu Luxury On Top of the World Sinulog Panorama,Condominium,Entire home,13,3,3,2,Yes,Yes,Yes,Yes,Yes,1,Very Strict,198,4.72,4.8,4.6,4.9,4.8,868837,8430.2,0.285,2380.4,104,261,0,9014.3,0,0,0,90
+29092379,Panorama Staycation at Penthouse Floor 2BR,Condominium,Entire home,11,2,4,2,Yes,Yes,Yes,Yes,Yes,1,Very Strict,276,4.7,4.9,4.6,4.9,4.9,603754,6047.6,0.252,1654.1,92,273,17568,5886.2,3.30E-02,195.2,3,87
+29093673,Studio @ IT Park! Wifi+Netflix,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,Yes,3,Moderate,60,4.92,5,4.8,4.9,5,201881,1575.7,0.356,553.1,130,235,38088,1530.6,0.289,423.2,26,64
+29145761,600Mbps WiFi 27th Flr I.T. Park #2 Avida Riala,Condominium,Entire home,4,,2,1,Yes,Yes,Yes,Yes,No,2,Very Strict,137,4.81,4.8,4.8,4.9,4.9,408154,2006.2,0.581,1118.2,212,153,128099,1790.2,0.8,1423.3,72,18
+29228084,One Oasis  A Room with a View,Condominium,Entire home,4,2,3,1,Yes,Yes,Yes,Yes,No,1,Very Strict,161,4.85,4.8,4.8,4.9,4.8,277782,2468.9,0.356,868.1,114,251,61844,2259.2,0.311,687.2,28,62
+29245986,New Cozy Condo in Ayala Cebu with Wifi & Netflix,Condominium,Entire home,2,,2,1,Yes,Yes,Yes,Yes,Yes,2,Moderate,1,,,,,,36367,1633.8,0.063,99.6,23,342,18352,1546.9,0.133,203.9,12,78
+29270473,The Cozy Studio Unit - Mivesa (near IT Park),Condominium,Entire home,3,,3,1,Yes,Yes,Yes,Yes,Yes,30,Very Strict,20,5,5,5,5,5,65966,989.7,0.291,278.3,69,296,0,0,0,0,0,90
+29272791,Cebu IT Park Comfy Condo at New Avida Riala Twr 2,Condominium,Entire home,1,1,1,1,Yes,Yes,Yes,Yes,No,30,Flexible,19,4.74,5,4.4,5,4.9,179313,902.5,0.747,647.3,207,158,40041,975.9,0.657,572,46,44
+29280085,Prince Comfy Place at San Remo Oasis Cebu City,Condominium,Entire home,5,2,3,1,Yes,Yes,Yes,Yes,Yes,5,Very Strict,19,5,5,5,5,4.8,424190,2663.1,0.433,1162.2,158,207,37535,2466.9,0.167,417.1,15,75
+29310367,Ayala unit with amazing view outside the balcony,Condominium,Entire home,2,,2,1,Yes,Yes,No,Yes,Yes,2,Very Strict,28,4.43,4.4,4.4,4.4,4.6,81565,1521.5,0.257,374.2,56,309,20352,1392.8,0.326,442.4,15,75
+29327187,5-Star Experience at the Heart of Cebu,Condominium,Entire home,2,,1,1,Yes,Yes,Yes,Yes,No,2,Very Strict,413,4.92,5,4.8,5,4.8,750268,2563.1,0.797,2055.5,291,74,173219,2518.9,0.756,1924.7,68,22
