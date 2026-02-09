@@ -8,7 +8,8 @@ This repository contains a collection of **end-to-end data analysis and business
 - **Excel**
   - Data cleaning & validation  
   - Pivot tables and exploratory analysis  
-  - Basic statistical analysis  
+  - Basic statistical analysis 
+  - Dashboard development
 
 - **SQL Server**
   - Exploratory Data Analysis (EDA)  
@@ -24,15 +25,11 @@ This repository contains a collection of **end-to-end data analysis and business
 ---
 
 ## 📊 Project Focus Areas
-- Sales and revenue analysis  
-- Profitability and margin analysis  
-- Customer and product performance  
-- Discount and pricing impact  
-- Market and regional analysis  
-- KPI tracking and business insights  
+- E-commerce, retail, and hospitality sales performance analysis  
+- Profitability, margin, and pricing effectiveness  
+- Customer segmentation, behavior, and product contribution  
+- Discount impact and promotion effectiveness  
+- Market, regional, and location-based performance analysis  
+- KPI development and business-oriented insights  
 
-Each project follows a **business-first analytical approach**, emphasizing clarity, accuracy, and decision relevance.
-
----
-
-
+Each project applies a **business-first analytical approach**, translating data into clear, decision-ready insights rather than descriptive reporting.
