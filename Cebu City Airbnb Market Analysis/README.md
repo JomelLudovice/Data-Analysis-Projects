@@ -18,6 +18,10 @@ By combining **SQL Server, Excel, and Power BI**, this project transforms raw li
 - Provide data-driven insights to support pricing, investment, and optimization decisions
 
 ---
+## Dataset
+**Source:** https://www.airroi.com/data-portal/markets/cebu-city-philippines
+
+---
 
 ## Tools & Technologies
 
