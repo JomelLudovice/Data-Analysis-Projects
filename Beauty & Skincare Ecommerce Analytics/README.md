@@ -47,6 +47,7 @@ The dashboard is organized into three pages that move from **high-level performa
 ---
 
 ## 3. Discount Analysis
+<img width="1535" height="857" alt="03_discount_analysis_page_3" src="https://github.com/user-attachments/assets/35c9ae91-402b-4143-a02c-3584820a5877" />
 
 **Key Findings:**
 - **Profit Erosion from Discounts:** Discounted transactions represent **45% of sales volume** but contribute only **6% of total profit**, confirming that discounts heavily dilute margins.
