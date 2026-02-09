@@ -69,9 +69,3 @@ The dashboard is organized into three pages that move from **high-level performa
 ## Notes
 - This project emphasizes **performance drivers and profitability trade-offs** across customers, products, and pricing strategies.
 - Visuals are included to demonstrate how analytical findings translate into **business-relevant insights**, not just descriptive metrics.
-
----
-
-## License
-This project is licensed under the **MIT License**, allowing free use, modification, and distribution with attribution.
-
